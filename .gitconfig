@@ -3,7 +3,7 @@
 ## section to your .git/config file (without the # characters).
 ##
 ## [include]
-##     path = ../.gitconfigg
+##     path = ../.gitconfig
 ##
 
 ##
